@@ -2,6 +2,9 @@
 
 This project is a landing page template for a fictional freelance product designer called "Samar". It showcases the designer's skills, services, portfolio, blog posts, and contact information.
 
+## Live demo:
+[Truy cập tại đây](samar-website-topaz.vercel.app)
+
 ## Table of Contents
 
 - [Samar - Freelance Product Designer Landing Page](#samar---freelance-product-designer-landing-page)
